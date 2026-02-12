@@ -25,9 +25,12 @@ nav {
   gap: 20px;
 }
 
-nav a {
+a {
   color: #caf0f8ff;
   text-decoration: none;
+}
+.project a {
+  color: #0077b6ff;
 }
 
 a:hover {
