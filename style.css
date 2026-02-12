@@ -30,6 +30,10 @@ nav a {
   text-decoration: none;
 }
 
+a:hover {
+  color: #00b4d8ff;
+}
+
 section {
   padding: 2rem;
   max-width: 900px;
