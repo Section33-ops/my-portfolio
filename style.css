@@ -30,6 +30,14 @@ section {
   margin: auto;
 }
 
+.landing_page_project {
+  background-color: white;
+  padding: 15px;
+  border-left: 6px solid #00b4d8ff;
+  border-radius: 12px;
+  margin-top: 20px;
+}
+
 .screenshot_container {
   display: flex;
   gap: 10px;
