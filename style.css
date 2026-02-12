@@ -26,6 +26,8 @@ nav a {
 
 section {
   padding: 2rem;
+  max-width: 900px;
+  margin: auto;
 }
 
 .screenshot_container {
