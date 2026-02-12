@@ -30,6 +30,12 @@ section {
   margin: auto;
 }
 
+footer {
+  background-color: #03045eff;
+  color: #caf0f8ff;
+  text-align: center;
+}
+
 .project {
   background-color: white;
   padding: 15px;
