@@ -72,6 +72,7 @@ footer a {
 
 .screenshot {
   width: 100%;
+  max-width: 450px;
 }
 
 .view-more {
