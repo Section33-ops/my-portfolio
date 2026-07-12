@@ -80,3 +80,10 @@ footer a {
 .view-more {
   font-weight: bold;
 }
+
+@media screen and (max-width: 768px) {
+  .project {
+    grid-template-columns: 1fr;
+    gap: 10px;
+  }
+}
