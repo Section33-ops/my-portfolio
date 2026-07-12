@@ -62,6 +62,8 @@ footer a {
   border-left: 6px solid #00b4d8ff;
   border-radius: 12px;
   margin-top: 20px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
 }
 
 .screenshot_container {
